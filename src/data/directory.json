@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+        "first": "Harry",
+        "last": "Potter",
+        "position": "Master Wizard, CEO",
+        "email": "Potter.H@iwand.com",
+        "cell": "(625)-245-9070"
+	},
+	{
+		"id": 2,
+        "first": "Hermione",
+        "last": "Granger",
+        "position": "CEO",
+        "email": "Granger.H@iwand.com",
+        "cell": "(414)-577-0876"
+	},
+    {
+		"id": 3,
+        "first": "Ron",
+        "last": "Weasley",
+        "position": "Product Manager",
+        "email": "Weasley.R@iwand.com",
+        "cell": "(651)-765-7432"
+	},
+	{
+		"id": 4,
+        "first": "Rubeus",
+        "last": "Hagrid",
+        "position": "Manager",
+        "email": "Hagrid.R@iwand.com",
+        "cell": "(612)-291-7846"
+	},
+    {
+		"id": 5,
+        "first": "Lord",
+        "last": "Voldemort",
+        "position": "Janitor",
+        "email": "He-who-shall-not-be-named@no-magmail.com",
+        "cell": "(784)-467-2459"
+	},
+    {
+		"id": 6,
+        "first": "Jessica",
+        "last": "Castanon",
+        "position": "Herbology Manager",
+        "email": "Castanon.J@owl.com",
+        "cell": "(864)-358-6785"
+	},
+    {
+		"id": 7,
+        "first": "Luna",
+        "last": "Lovegood",
+        "position": "Marketing Assistant",
+        "email": "Lovegood.L@iwand.com",
+        "cell": "(779)-250-0643"
+	},
+    {
+		"id": 8,
+        "first": "Severus",
+        "last": "Snape",
+        "position": "Office Manager",
+        "email": "Snape@owl.com",
+        "cell": "(865)-246-3790"
+	},
+    {
+		"id": 9,
+        "first": "Albus",
+        "last": "Dumbledor",
+        "position": "CEO",
+        "email": "ElderWand@iwand.com",
+        "cell": "(612)-935-3678"
+	},
+    {
+		"id": 10,
+        "first": "Neville",
+        "last": "Longbottom",
+        "position": "CFO",
+        "email": "LongBottom@owl.com",
+        "cell": "(763)-935-5674"
+	}
+]
