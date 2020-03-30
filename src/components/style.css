@@ -1,0 +1,13 @@
+  
+.table-title {
+    color: orangered;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    background-color: rgb(53, 147, 175);
+    font-weight: bold;
+}
