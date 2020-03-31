@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,aACI,aACJ,CAEA,MACI,qBACJ,CAEA,GACI,wBAAmC,CACnC,eACJ","file":"main.be5dd7fe.chunk.css","sourcesContent":["  \n.table-title {\n    color: orangered;\n}\n\ntable {\n    background-color: white;\n}\n\nth {\n    background-color: rgb(53, 147, 175);\n    font-weight: bold;\n}"]}
